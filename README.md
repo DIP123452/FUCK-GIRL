@@ -1,6 +1,8 @@
 FUCK_GIRL 👌👈
 
-Free Tools 🍼🍼 pkg update 
+Free Tools 🍼🍼 
+
+pkg update 
 
 pkg upgrade 
 
